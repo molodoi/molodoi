@@ -1,4 +1,4 @@
-### Bienvenue sur mon profil Github
+## Welcome on my Github profil
 
 - Web Developer since 2009.
 
@@ -82,4 +82,4 @@ And many more CMS based on Laravel/Symfony, Node or Js Stack
 
 [![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/)
 
-And if i have the time one day : [![FlutterGetx](https://img.shields.io/badge/-Flutter-Getx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
+And if i have the time one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
