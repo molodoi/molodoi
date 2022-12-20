@@ -65,13 +65,8 @@ And many more CMS based on Laravel/Symfony, Node or Js Stack
 [![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon&logoColor=0073ec)](https://laragon.org/)
 
 
-## Improvement
-
+## Under training
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178c6)](https://www.typescriptlang.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFF)](https://nextjs.org/)
-
-
-## Learning
-
 [![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/) and if i have the time | one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
