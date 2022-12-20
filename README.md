@@ -24,6 +24,9 @@ with [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699
 [![JavaScript Vanilla](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769ad)](https://jquery.com/)
 
+[![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
+[![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61dafb)](https://reactjs.org/)
+
 And many many more modern UI, librairies & tools..
 
 ## Backend
@@ -43,7 +46,7 @@ And many more backend technologies based on Node.js as nestjs..
 
 ## System 
 
-[![LAMP](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)](https://www.linux.org/)
+[![LAMP](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=0073ec)](https://www.docker.com/)
 [![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon&logoColor=0073ec)](https://laragon.org/)
 
@@ -76,6 +79,6 @@ And many more CMS based on Symfony, Node or Js Stack
 
 ## Learning
 
-[![ReactNative Cli with Ts](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/)
+[![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/)
 
 And if i have the time : Flutter/Getx..
