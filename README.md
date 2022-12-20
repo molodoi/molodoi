@@ -16,7 +16,8 @@
 with [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
 
 [![Flexbox](https://img.shields.io/badge/-Flexbox-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-[![Grid Layout](https://img.shields.io/badge/-Grid-Layout-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+[![GridLayout](https://img.shields.io/badge/-GridLayout-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 [![Boostrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=5a23c8)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38BDF8)](https://tailwindcss.com/)
@@ -56,7 +57,7 @@ And many more backend technologies based on Node.js as nestjs..
 [![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=FFF)](https://wordpress.com/)
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-000?&logo=WooCommerce&logoColor=FFF)](https://woocommerce.com/)
 
-And many more CMS based on Symfony, Node or Js Stack
+And many more CMS based on Laravel/Symfony, Node or Js Stack
 
 
 ## Versionning
@@ -81,4 +82,4 @@ And many more CMS based on Symfony, Node or Js Stack
 
 [![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/)
 
-And if i have the time : Flutter/Getx..
+And if i have the time one day : [![Flutter/Getx](https://img.shields.io/badge/-Flutter-Getx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
