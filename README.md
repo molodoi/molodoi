@@ -2,7 +2,7 @@
 
 - Web Developer since 2009.
 
-- 📫 Contactez-moi sur **hello@ticme.fr**
+- 📫 Contact-me : **hello@ticme.fr**
 
 ## Find me
 
