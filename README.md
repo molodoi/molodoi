@@ -9,16 +9,14 @@
 [![Ticme](https://img.shields.io/badge/-Ticme-000?&logo=GitHub&logoColor=FFF)](https://ticme.fr)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://fr.linkedin.com/in/lamerantmatthieu)
 
-## Languages
-
 ## Frontend
 
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 with [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
 
-[![Flexbox](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-[![Grid Layout](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+[![Flexbox](https://img.shields.io/badge/-Flexbox-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+[![Grid Layout](https://img.shields.io/badge/-Grid-Layout-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 [![Boostrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=5a23c8)](https://getbootstrap.com/)
 [![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?&logo=TailwindCSS&logoColor=38BDF8)](https://tailwindcss.com/)
@@ -31,13 +29,11 @@ And many many more modern UI, librairies & tools..
 ## Backend
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
-
-## Frameworks
-
-## PHP
-
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=f9322c)](https://laravel.com/)
 [![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
+
+And many more backend technologies based on Node.js as nestjs..
+
 
 ## Databases
 
@@ -47,9 +43,10 @@ And many many more modern UI, librairies & tools..
 
 ## System 
 
-Linux
-Docker
-Wamp/Laragon
+[![LAMP](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FFF)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=0073ec)](https://www.docker.com/)
+[![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon&logoColor=0073ec)](https://laragon.org/)
+
 
 ## CMS
 
@@ -57,6 +54,7 @@ Wamp/Laragon
 [![WooCommerce](https://img.shields.io/badge/-WooCommerce-000?&logo=WooCommerce&logoColor=FFF)](https://woocommerce.com/)
 
 And many more CMS based on Symfony, Node or Js Stack
+
 
 ## Versionning
 
