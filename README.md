@@ -51,6 +51,10 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab&logoColor=FC6D26)](https://www.gitlab.com/)
 
 
+## Testing and code coverage
+
+[![PhpUnit](https://img.shields.io/badge/-PHPUnit-000?&logo=PHP&logoColor=777BB4)](https://phpunit.de/) and other tools
+
 ## System 
 
 [![LAMP](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
