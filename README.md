@@ -22,27 +22,20 @@
 
 [![JavaScript Vanilla](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery&logoColor=0769ad)](https://jquery.com/)
-
 [![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js&logoColor=4FC08D)](https://vuejs.org/)
-[![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61dafb)](https://reactjs.org/)
-
-And many many more modern UI, librairies & tools..
+[![React.js](https://img.shields.io/badge/-React.js-000?&logo=React&logoColor=61dafb)](https://reactjs.org/) and many many more modern UI, librairies & tools..
 
 ## Backend
 
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://www.php.net)
 [![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&logoColor=f9322c)](https://laravel.com/)
-[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com)
-
-And many more backend technologies based on Node.js as nestjs..
+[![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony&logoColor=FFF)](https://symfony.com) and many more backend technologies based on Node.js as nestjs..
 
 
 ## CMS
 
 [![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress&logoColor=FFF)](https://wordpress.com/)
-[![WooCommerce](https://img.shields.io/badge/-WooCommerce-000?&logo=WooCommerce&logoColor=FFF)](https://woocommerce.com/)
-
-And many more CMS based on Laravel/Symfony, Node or Js Stack
+[![WooCommerce](https://img.shields.io/badge/-WooCommerce-000?&logo=WooCommerce&logoColor=FFF)](https://woocommerce.com/) and many more CMS based on Laravel/Symfony, Node or Js Stack
 
 
 ## Databases
@@ -69,4 +62,6 @@ And many more CMS based on Laravel/Symfony, Node or Js Stack
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178c6)](https://www.typescriptlang.org/)
 [![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js&logoColor=00DC82)](https://nuxtjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFF)](https://nextjs.org/)
-[![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/) and if i have the time | one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
+[![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/) 
+
+And if i have the time | one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
