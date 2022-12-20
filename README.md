@@ -14,9 +14,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 with [![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
-
 [![Flexbox](https://img.shields.io/badge/-Flexbox-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
-
 [![GridLayout](https://img.shields.io/badge/-GridLayout-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
 [![Boostrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap&logoColor=5a23c8)](https://getbootstrap.com/)
@@ -80,6 +78,4 @@ And many more CMS based on Laravel/Symfony, Node or Js Stack
 
 ## Learning
 
-[![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/)
-
-And if i have the time one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
+[![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/) and if i have the time one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
