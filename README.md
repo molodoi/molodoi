@@ -59,8 +59,6 @@
 
 [![LAMP](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)](https://www.linux.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&logoColor=0073ec)](https://www.docker.com/)
-[![Laragon](https://img.shields.io/badge/-Laragon-000?&logo=Laragon&logoColor=0073ec)](https://laragon.org/)
-
 
 ## Under training
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=3178c6)](https://www.typescriptlang.org/)
@@ -68,4 +66,3 @@
 [![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js&logoColor=FFF)](https://nextjs.org/)
 [![ReactNative Cli with Ts](https://img.shields.io/badge/-ReactNative-000?&logo=React&logoColor=61dafb)](https://reactnative.dev/) 
 
-And if i have the time | one day : [![FlutterGetx](https://img.shields.io/badge/-FlutterGetx-000?&logo=Flutter&logoColor=FFF)](https://pub.dev/packages/get)
